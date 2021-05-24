@@ -14,7 +14,7 @@ Add-ItemVersion -Id <String> [-Database <String>] [-Recurse] [-IfExist <Append |
 
 ## Detailed Description
 
-Creates a new version of the item in a specified language based on an existing language/version. Based on parameters you can make the command bahave differently when a version in the target language already exists and define which fields if any should be copied over from the original language.
+Creates a new version of the item in a specified language based on an existing language/version. Based on parameters you can make the command behave differently when a version in the target language already exists and define which fields if any should be copied over from the original language.
 
 © 2010-2020 Adam Najmanowicz, Michael West. All rights reserved. Sitecore PowerShell Extensions
 
